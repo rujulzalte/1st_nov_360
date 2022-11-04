@@ -7,3 +7,4 @@ def feature1():
 def feature2():
     print("this is feature 2")
     print("random")
+    print("new"
